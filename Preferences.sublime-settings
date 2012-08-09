@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Cobalt.tmTheme",
+	"font_size": 13.0,
+	"draw_white_space": "none",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2,
+	"theme": "Soda Light.sublime-theme",
+	"word_wrap": true
+}
