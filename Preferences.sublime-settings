@@ -27,16 +27,18 @@
 		"Tomorrow Color Schemes",
 		"Minifier",
 		"Vintage",
-		"GitGutter",
+		"CSSTidy",
 		"SASS Build",
 		"ColorPick",
 		"JavaScript Console",
-		"LiveStyle"
+		"LiveStyle",
+		"HTML-CSS-JS Prettify",
+		"SublimeLinter"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"tab_size": 2,
-	"theme": "Soda Dark.sublime-theme",
+	"theme": "Spacegray Eighties.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
 }
