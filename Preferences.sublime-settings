@@ -18,7 +18,7 @@
 		"tmp"
 	],
 	"font_face": "SourceCodePro-Regular",
-	"font_size": 13,
+	"font_size": 12.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -27,11 +27,13 @@
 		"Tomorrow Color Schemes",
 		"Minifier",
 		"Vintage",
+		"Theme - Soda",
 		"CSSTidy",
-		"SASS Build",
+		"JSHint",
+		"LiveStyle",
 		"ColorPick",
 		"JavaScript Console",
-		"LiveStyle",
+		"SASS Build",
 		"HTML-CSS-JS Prettify",
 		"SublimeLinter"
 	],
